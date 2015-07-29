@@ -1,0 +1,15 @@
+{
+  "name": "Checkout",
+  "version": "0.0.1",
+  "description": "Shopping Cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bashanta Dahal",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^0.9.0"
+  }
+}
