@@ -9,6 +9,7 @@ var Item = function( code, name, price ) {
   this.price = Number(price);
 };
 
+//checkout class
 var Checkout = function(){
   var totalPrice  = 0,
   basket      = {},
